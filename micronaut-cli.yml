@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, assertj, camunda, camunda-external-worker, config-kubernetes, config4k, data, data-r2dbc, graalvm, gradle, h2, http-client, jib, kafka, kafka-streams, knative, kotest, kotlin, kotlin-application, kubernetes, liquibase, log4j2, management, mongo-reactive, netty-server, openapi, r2dbc, readme, security, security-annotations, security-jwt, security-ldap, security-oauth2, security-session, shade, testcontainers]
